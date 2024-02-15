@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta ANDRES FELIPE  ="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Página Web Sencilla</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Bienvenido a mi Página Web</h1>
+    </header>SECCION DE VIDEO JUEGOS 
+    
+    <section>
+        <h2>TODO PLAY 4</h2>
+        <p>TODO LO ULTIMO.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Mi Página Web Sencilla</p>
+    </footer>
+</body>
+</html>
